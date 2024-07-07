@@ -9,7 +9,7 @@ weight = input()
 # and do mathematical operations on.
 # So that means on line 12, you'll see that I've created the weight_as_integer variable to store the weight input as a whole number.
 # So I'm converting, in this case, in the example input 69 into a number that I can multiply or add and use later on. 
-weight_as_int = int(weight)e,
+weight_as_int = int(weight),
 
 # On line 20, I'm converting the height that is coming in with height in meters. 
 # And because none of us have one meter or two meter, we're usually somewhere in between the two. 

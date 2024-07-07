@@ -9,12 +9,12 @@ weight = input()
 # and do mathematical operations on.
 # So that means on line 12, you'll see that I've created the weight_as_integer variable to store the weight input as a whole number.
 # So I'm converting, in this case, in the example input 69 into a number that I can multiply or add and use later on. 
-weight_as_int = int(weight)
+weight_as_int = int(weight)e,
 
 # On line 20, I'm converting the height that is coming in with height in meters. 
 # And because none of us have one meter or two meter, we're usually somewhere in between the two. 
 # This is usually represented as a floating point number. So there's a decimal point in there.
-# For example, I am 1 meter 79, and that will be 1.79 meters.In this case, we're going convert that input into a different data type, 
+# For example, I am 1 meter 79, and that will be 1.79 meters.In this case, we're going convert that input into a different data typ 
 # one that can store decimal places, and that is the "float data type". So we wrap the float around the height variable, and we can turn that input 1.63 in the sample input
 # into a floating point number, which again can be used in our calculations later on.
 height_as_float = float(height)
